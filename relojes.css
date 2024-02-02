@@ -1,0 +1,84 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+.relojes
+{
+	background:url(relojes.jpg);
+	background-position:center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	height: 300px;
+	align-items: center;
+	font-size: 30px;
+	color: grey;
+	width: 100%;
+	
+	margin: 0px;
+	padding: 0px;
+	border-radius: 0px;
+	border:0px;
+
+}
+
+.fondo
+{
+	background-color:grey;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	border-radius: 0px;
+	border:0px;
+	
+
+
+   }
+div
+{
+	width: 170PX;
+	height: 260PX;
+	border: 0px solid;
+	background-color: white;
+	border-radius: 14px;
+	margin: 10px;
+	padding: 10px;
+	font-size:10px;
+	text-align: center;
+}
+.invisible
+{
+	width: 70%;
+	height: 100%;
+	bottom: 650px;
+    flex-wrap: wrap;
+	justify-content: space-evenly;
+	display: flex;
+	align-items: center;
+	min-width: 350px;
+	max-width: 900px;
+}
+
+img
+{
+	width: 170px;
+	height: 150px;
+	text-align: center;
+}
+
+h2
+{
+	font-size: 16px;
+	text-align: center;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+
+}
+
+a
+{
+	font-size: 15px;
+}
+
